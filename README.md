@@ -175,6 +175,17 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 -----------
 
+ [![Trophy](https://github-profile-trophy.vercel.app/?username=mohammadwasiq0&show_icons=true&theme=vue)](https://https://github.com/Shaah-i/github-profile-trophy)
+
+![Shubham Shaah's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadwasiq0&theme=vue)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammadwasiq0&show_icons=true&theme=vue)
+
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadwasiq0&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaah-i&layout=compact&theme=vue)](https://github.com/mohammadwasiq0/github-readme-stats)
+ 
+ 
 <h2 align="center">Activity Graph </h2>
 
 [![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=mohammadwasiq0&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786?tab=repositories/github-readme-activity-graph)
