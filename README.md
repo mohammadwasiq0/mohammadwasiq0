@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Statistics , Data Analysis, Data Science, Machine Learning**
 
-- 💻 Check my Projects and other Repositories [HERE.](https://github.com/MohammadWasiq0786?tab=repositories)
+- 💻 Check my Projects and other Repositories [HERE.](https://github.com/mohammadwasiq0?tab=repositories)
 
 -----------
 
