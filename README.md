@@ -161,12 +161,9 @@
 I thankful to all my educators who teach me very well. Without them I am nothing.
 
 -----------
+ 
 
-
-
------------
-
- <h2 Stats align="center">
+ <h2 Statistics align="center">
   
  [![Trophy](https://github-profile-trophy.vercel.app/?username=mohammadwasiq0&show_icons=true&theme=vue)](https://https://github.com/Shaah-i/github-profile-trophy)
 
@@ -176,7 +173,7 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadwasiq0&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaah-i&layout=compact&theme=vue)](https://github.com/mohammadwasiq0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadwasiq0&layout=compact&theme=vue)](https://github.com/mohammadwasiq0/github-readme-stats)
  
  
 ---------
