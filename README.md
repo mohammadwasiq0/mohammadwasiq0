@@ -44,9 +44,9 @@
 
 ## Guithub :
 
-[<img src="https://img.shields.io/github/followers/MohammadWasiq0786?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
+[<img src="https://img.shields.io/github/followers/mohammadwasiq0?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadWasiq0786" alt="About-Mohammad-Wasiq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadwasiq0" alt="About-Mohammad-Wasiq" /> </p>
 
 ![personal website](https://img.shields.io/website-up-down-green-red/https/suryapusapati.com.svg)
 
@@ -124,15 +124,7 @@
 | 16\.        | DSM - 3005 | **Cloud Computing**                | [**Prof. Mohammad Shahid**](https://www.amu.ac.in/faculty/commerce/mohammad-shahid)                                                                                                        |
 | 17\.        | DSM - 3091 | **BlockChain (OE)**                | [**Prof. Mohammad Sajid**](https://www.amu.ac.in/faculty/computer-science/mohammad-sajid)                                                                                                       |
 
-### 2. iNeuron (Full Stack Data Science BootCamp)
-
-| **Sr. No.** | **Subject**        | **Educator Name**                                                                         |
-|------------|------------|------------------------------------------------|
-| 1\.         | **Python**         | [**Sudhanshu Kumar**](https://www.linkedin.com/in/-sudhanshu-kumar/?originalSubdomain=in) |
-| 2\.         | **MySQL, MongoDB** | [**Sudhanshu Kumar**](https://www.linkedin.com/in/-sudhanshu-kumar/?originalSubdomain=in) |
-| 3\.         | **Statistics**     | [**Krish Naik**](https://www.linkedin.com/in/naikkrish/?originalSubdomain=in)             |
-
-### 3. BSc (Statistics)
+### 2. BSc (Statistics)
 
 | **Sr. No.** | **Code**  | **Subject**                       | **Educator Name**                                                                                                        |
 |----------------|----------------|-----------------------|-----------------|
@@ -151,7 +143,7 @@
 | 13\.        | STB - 654 | **Design of Experiment**          | [**Prof. Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)                |
 | 14\.        | STB - 6S1 | **Project**                       | [**Prof. Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
 
-### 4. Intermediate
+### 3. Intermediate
 
 | **Sr. No.** | **Subject**     | **Educator Name**         |
 |-------------|-----------------|---------------------------|
@@ -159,7 +151,7 @@
 | 2\.         | **Physics**     | **Lect. Hasan Raza Naqvi** |
 | 3\.         | **Chemistry**   | **Lect. Mohammad Raza**    |
 
-### 5. High School
+### 4. High School
 
 | **Sr. No.** | **Subject**     | **Educator Name**        |
 |-------------|-----------------|--------------------------|
@@ -173,19 +165,19 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 <h2 align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Statistics</b></i></h2>
 
-<p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="About-Mohammad-Wasiq" /></p>
+<p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadwasiq0&layout=compact" alt="About-Mohammad-Wasiq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadWasiq0786&show_icons=true&locale=en" alt="About-Mohammad-Wasiq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadwasiq0&show_icons=true&locale=en" alt="About-Mohammad-Wasiq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadWasiq0786&" alt="About-Mohammad-Wasiq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadwasiq0&" alt="About-Mohammad-Wasiq" /></p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MohammadWasiq0786&theme=juicyfresh" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=mohammadwasiq0&theme=juicyfresh" /></p>
 
 -----------
 
 <h2 align="center">Activity Graph </h2>
 
-[![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786?tab=repositories/github-readme-activity-graph)
+[![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=mohammadwasiq0&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786?tab=repositories/github-readme-activity-graph)
 
 ---------
 
