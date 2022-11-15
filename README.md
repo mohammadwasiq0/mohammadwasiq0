@@ -179,9 +179,6 @@ I thankful to all my educators who teach me very well. Without them I am nothing
  
 ---------
  
- 
----------
-
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/map.svg">](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
 
 ---------
