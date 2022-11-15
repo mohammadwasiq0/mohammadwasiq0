@@ -164,8 +164,10 @@ I thankful to all my educators who teach me very well. Without them I am nothing
  
 
  <h2 Statistics align="center">
-  
- [![Trophy](https://github-profile-trophy.vercel.app/?username=mohammadwasiq0&show_icons=true&theme=vue)](https://https://github.com/Shaah-i/github-profile-trophy)
+
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Statistics</b></i></h2>
+ 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mohammadwasiq0&show_icons=true&theme=vue)](https://https://github.com/Shaah-i/github-profile-trophy)
 
 ![Shubham Shaah's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadwasiq0&theme=vue)
 
@@ -173,9 +175,10 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadwasiq0&theme=vue)
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Statistics</b></i></h2>
-
 <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadwasiq0&layout=compact" alt="About-Mohammad-Wasiq" /></p>
+ 
+---------
+ 
  
 ---------
 
