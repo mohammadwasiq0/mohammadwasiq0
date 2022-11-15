@@ -173,8 +173,9 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadwasiq0&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadwasiq0&layout=compact&theme=vue)](https://github.com/mohammadwasiq0/github-readme-stats)
- 
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Statistics</b></i></h2>
+
+<p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadwasiq0&layout=compact" alt="About-Mohammad-Wasiq" /></p>
  
 ---------
 
