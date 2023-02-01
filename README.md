@@ -21,7 +21,7 @@
 -----------
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=#FF0000&center=true&lines=Data+Science+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=FF0000&center=true&lines=Data+Science+Enthusiast'/>
 </div>
 
 -----------
