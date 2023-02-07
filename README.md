@@ -100,6 +100,18 @@
 
 -----------
 
+## My Education
+
+| **Course**            | **Enrolment Number** | **Roll Number** | **Percentage** | **Board**         |
+|-----------------------|----------------------|-----------------|----------------|-------------------|
+|**M.Sc(Data Science)** | **GL0427**           | **21DSMSA116**  |   **8.7/10**   |  **AMU, Aligarh** |
+|**B.Sc(Statistics)**   | **GL0427**           | **18STB028**    |   **8.1/10**   |**AMU, Aligarh**   |
+|**Intermediate**       |                      | **0652325**     |   **85.6/100** |**U.P. Board**     |
+|**High School**        |                      | **0812442**     |   **83/100**   |**U.P. Board**     |
+
+-----------
+
+
 ## My Educators
 
 ### 1. MS (Data Science)
