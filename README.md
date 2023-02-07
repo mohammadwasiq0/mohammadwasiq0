@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/badge/Languages-Hindi%20,%20English%20%26%20Urdu-brightgreen" />
 </p>
 
-![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo_.png)
-
 <h2 align="center">I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science & $\quad \quad \quad$ Bachelor's in Statistics</h2>
 
 ## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)
