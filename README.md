@@ -39,7 +39,7 @@
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/linkedin.svg">](https://www.linkedin.com/in/mohammadwasiq0/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/kg.png">](https://www.kaggle.com/mohammadwasiqqcs)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/twitter.svg">](https://twitter.com/Mohammadwasiq0)  
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/instagram.svg">](https://www.instagram.com/mohammadwasiq0786/)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/instagram.svg">](https://www.instagram.com/mohammadwasiq00/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/facebook.svg">](https://www.facebook.com/mohammad.wasiq.79)
 
 -----------
