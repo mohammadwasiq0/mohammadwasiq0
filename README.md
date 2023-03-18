@@ -117,7 +117,7 @@
 
 ## My Educators
 
-### 1. MS (Data Science) Aligarh Muslim University, Aligarh, UP, India (202002)
+### 1. MS (Data Science) [Aligarh Muslim University, Aligarh, UP, India (202002)]
 
 | **Sr. No.** | **Code**   | **Subject**                        | **Educator Name**                                                                                                  |
 |----------------|----------------|-----------------------|-------------------|
@@ -139,7 +139,7 @@
 | 16\.        | DSM - 3005 | **Cloud Computing**                | [**Dr. Mohammad Shahid**](https://www.amu.ac.in/faculty/commerce/mohammad-shahid)                                                                                                        |
 | 17\.        | DSM - 3091 | **BlockChain (OE)**                | [**Dr. Mohammad Sajid**](https://www.amu.ac.in/faculty/computer-science/mohammad-sajid)                                                                                                       |
 
-### 2. BSc (Statistics) Aligarh Muslim University, Aligarh, UP, India (202002)
+### 2. BSc (Statistics) [Aligarh Muslim University, Aligarh, UP, India (202002)]
 
 | **Sr. No.** | **Code**  | **Subject**                       | **Educator Name**                                                                                                        |
 |----------------|----------------|-----------------------|-----------------|
@@ -158,7 +158,7 @@
 | 13\.        | STB - 654 | **Design of Experiment**          | [**Dr. Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)                |
 | 14\.        | STB - 6S1 | **Project**                       | [**Dr. Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
 
-### 3. Intermediate  Turki Inter College, Palaula, Amroha, UP, India (244222)
+### 3. Intermediate  [Turki Inter College, Palaula, Amroha, UP, India (244222)]
 
 | **Sr. No.** | **Subject**     | **Educator Name**         |
 |-------------|-----------------|---------------------------|
@@ -166,7 +166,7 @@
 | 2\.         | **Physics**     | **Lect. Hasan Raza Naqvi** |
 | 3\.         | **Chemistry**   | **Lect. Mohammad Raza**    |
 
-### 4. High School  Turki Inter College, Palaula, Amroha, UP, India (244222)
+### 4. High School  [Turki Inter College, Palaula, Amroha, UP, India (244222)]
 
 | **Sr. No.** | **Subject**     | **Educator Name**        |
 |-------------|-----------------|--------------------------|
