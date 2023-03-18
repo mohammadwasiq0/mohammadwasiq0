@@ -1,4 +1,6 @@
-![logo](https://github.com/Abdul-Jaweed/Abdul-Jaweed/blob/main/1675681418944.gif)<div align="center">
+<div align="center">
+![logo](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/1675681418944.gif)
+</div>
  
 <h1> Hi <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a> I'm Mohammad Wasiq
 </h1> 
