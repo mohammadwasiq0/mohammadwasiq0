@@ -12,16 +12,10 @@
 </p>
 
 <div style="text-align:center;">
-  <h2><strong>I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science <br> & <br> Bachelor's in Statistics </strong></h2>
-</div>
-
-<div style="text-align:center;">
   <h2><strong>I'm a Data Science and Data Analytics Enthusiast with</strong></h2>
   <br>
   <h2><strong>Master's in Data Science & Bachelor's in Statistics</strong></h2>
 </div>
-
-
 
 ![logo](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/1675681418944.gif)
 
