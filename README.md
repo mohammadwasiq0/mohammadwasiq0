@@ -13,12 +13,10 @@
 
 <div style="text-align:center;">
   <h2><strong>I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science</strong></h2>
-  <p><strong>Bachelor's in Statistics</strong></p>
-  <p><strong>Master's in Data Science</strong></p>  
+  <p style="text-align:center;"><strong>&</strong></p>
+  <h3><strong>Bachelor's in Statistics</strong></h3> 
 </div>
 
-
-<h2 align="center"> & $\quad \quad \quad$ Bachelor's in Statistics</h2>
 
 ![logo](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/1675681418944.gif)
 
