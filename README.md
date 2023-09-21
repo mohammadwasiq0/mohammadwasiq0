@@ -2,8 +2,6 @@
 
 ![Wasiq2](https://svg-banners.vercel.app/api?type=rainbow&text1=MOHAMMAD%20WASIQ%20%F0%9F%8C%88&width=800&height=400)
 
-![logo](https://github.com/MohammadWasiq0786/MohammadWasiq0786/blob/main/1675681418944.gif)
-
 <h1 align="center"> Hi <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a> I'm Mohammad Wasiq
 </h1> 
 
