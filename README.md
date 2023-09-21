@@ -15,6 +15,11 @@
 
 ![logo](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/1675681418944.gif)
 
+<div style="text-align:center;">
+  <h1><a href="https://www.amu.ac.in/department/statistics-and-operations-research"><strong>Department of Statistics & Operation Research</strong></a></h1>
+</div>
+
+
 ## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)
 
 ## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Aligarh Muslim University, Aligarh(202002), India](https://www.amu.ac.in/)
