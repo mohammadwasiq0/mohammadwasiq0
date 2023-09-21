@@ -12,7 +12,7 @@
 </p>
 
 <div style="text-align:center;">
-  <h2><strong>I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science</strong></h2>
+  <h2><strong>I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science <br> & <br> Bachelor's in Statistics </strong></h2>
   <p style="text-align:center;"><strong>&</strong></p>
   <h3><strong>Bachelor's in Statistics</strong></h3> 
 </div>
