@@ -19,10 +19,9 @@
   <h1><a href="https://www.amu.ac.in/department/statistics-and-operations-research"><strong>Department of Statistics & Operation Research</strong></a></h1>
 </div>
 
-
-## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)
-
-## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ [Aligarh Muslim University, Aligarh(202002), India](https://www.amu.ac.in/)
+<div style="text-align:center;">
+  <h2><a href="https://www.amu.ac.in/"><strong>Aligarh Muslim University, Aligarh(202002), India</strong></a></h2>
+</div>
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision/Data Science/Data Analysis/Big Data**
 
