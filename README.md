@@ -15,6 +15,11 @@
 
 ![logo](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/1675681418944.gif)
 
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; text-align: center;">
+  <h1><a href="https://www.amu.ac.in/department/statistics-and-operations-research"><strong>Department of Statistics & Operation Research</strong></a></h1>
+</div>
+
+
 <div style="text-align:center;">
   <h1><a href="https://www.amu.ac.in/department/statistics-and-operations-research"><strong>Department of Statistics & Operation Research</strong></a></h1>
 </div>
