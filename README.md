@@ -11,7 +11,14 @@
 <img src="https://img.shields.io/badge/Languages-Hindi%20,%20English%20%26%20Urdu-brightgreen" />
 </p>
 
-<h2 align="center">I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science & $\quad \quad \quad$ Bachelor's in Statistics</h2>
+<div style="text-align:center;">
+  <h2><strong>I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science</strong></h2>
+  <p><strong>Bachelor's in Statistics</strong></p>
+  <p><strong>Master's in Data Science</strong></p>  
+</div>
+
+
+<h2 align="center"> & $\quad \quad \quad$ Bachelor's in Statistics</h2>
 
 ![logo](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/1675681418944.gif)
 
