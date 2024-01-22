@@ -1,6 +1,6 @@
 ![Wasiq](https://svg-banners.vercel.app/api?type=origin&text1=Mohammad%Wasiq%20&text2=%20Passionate%20%20About%20Data&width=800&height=400)
 
-   <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻+%7C+ I+am+Interested+in+Data+Analysis+Data+Science+Statistics+%7C+Machine+Learning+Deep+Learninig+%7C+Natural+Language+Processing+Large+Language+Model+%7C+Generative+AI+Computer+Vision" alt="Short Intro" /> <br> 
+   <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻" alt="Short Intro" /> <br> 
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= I+am+Interested+in+Data+Analysis+Data+Science+Statistics+%7C+Machine+Learning+Deep+Learninig+%7C+Natural+Language+Processing+Large+Language+Model+%7C+Generative+AI+Computer+Vision" alt="Short Intro" /> <br> 
