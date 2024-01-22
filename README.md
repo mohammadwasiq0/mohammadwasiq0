@@ -10,12 +10,7 @@
 
 ![logo](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/1675681418944.gif)
 
-<h1 style="text-align:center;"><strong>Student</strong></a></h1>
-<h1 style="text-align:center;"><strong>of</strong></a></h1>
-
-<div style="text-align:center;">
-  <h1><a href="https://www.amu.ac.in/department/statistics-and-operations-research"><strong>Student</strong></a></h1>
-</div>
+<h3 style="text-align:center;"><strong>Student of</strong></a></h2>
 
 <div style="text-align:center;">
   <h1><a href="https://www.amu.ac.in/department/statistics-and-operations-research"><strong>Department of Statistics & Operation Research</strong></a></h1>
