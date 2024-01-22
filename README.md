@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻+🤖" alt="Short Intro" />
 
-[![LEARNING](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=300&pause=150&multiline=false&width=1000&height=100&lines=📚+👨🏻‍💻+I+AM+INTERESTED+IN+;;🌟+DATA+SCIENCE+;;🌟MACHINE+LEARNING+;;🌟DEEP+LEARNING+;;🌟NATURAL+LANGUAGE+PROCESSING+;;🌟LARGE+LANGUAGE+MODEL+;;🌟GENERATIVE+AI+;;🌟COMPUTER+VISION)](https://github.com/mohammadwasiq0?tab=repositories)
+[![LEARNING](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=320&pause=220&multiline=false&width=1000&height=100&lines=📚+👨🏻‍💻+I+AM+INTERESTED+IN+;;🌟+DATA+SCIENCE+;;🌟MACHINE+LEARNING+;;🌟DEEP+LEARNING+;;🌟NATURAL+LANGUAGE+PROCESSING+;;🌟LARGE+LANGUAGE+MODEL+;;🌟GENERATIVE+AI+;;🌟COMPUTER+VISION)](https://github.com/mohammadwasiq0?tab=repositories)
 <br>
 
 <p align="center">
