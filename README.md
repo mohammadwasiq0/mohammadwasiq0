@@ -1,8 +1,6 @@
 ![Wasiq](https://svg-banners.vercel.app/api?type=origin&text1=Mohammad%Wasiq%20&text2=%20Passionate%20%20About%20Data&width=800&height=400)
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻" alt="Short Intro" /> 
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= I+am+currently+learning+Intelligence+Enthusiast+🤖" alt="Short Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻+🤖" alt="Short Intro" /> 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
