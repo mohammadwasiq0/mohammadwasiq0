@@ -169,11 +169,7 @@ I am thankful to all my educators who teach me very well. Without them I am noth
 -----------
 
 <h2 Statistics align="center">
-
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Statistics</b></i></h2>
-
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
-
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My GitHub Statistics 🔥</b></i></h2>
 
 [![Profile Views (Today)](https://komarev.com/ghpvc/?username=mohammadwasiq0&label=Profile%20Views%20(Today)&color=red&style=for-the-badge)](https://komarev.com/ghpvc/?username=mohammadwasiq0 "Profile Views")
 
