@@ -1,8 +1,6 @@
 ![Wasiq](https://svg-banners.vercel.app/api?type=origin&text1=Mohammad%Wasiq%20&text2=%20Passionate%20%20About%20Data&width=800&height=400)
 
- <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻 alt="Short Intro" /> <br> 
-
-  <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻+%7C+ I+am+Interested+in+Data+Analysis+Data+Science+Statistics+%7C+Machine+Learning+Deep+Learninig+%7C+Natural+Language+Processing+Large+Language+Model+%7C+Generative+AI+Computer+Vision" alt="Short Intro" /> <br> 
+   <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻+%7C+ I+am+Interested+in+Data+Analysis+Data+Science+Statistics+%7C+Machine+Learning+Deep+Learninig+%7C+Natural+Language+Processing+Large+Language+Model+%7C+Generative+AI+Computer+Vision" alt="Short Intro" /> <br> 
  
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+these+techniques+🤖" alt="About Me" />
 
@@ -250,10 +248,6 @@ I am thankful to all my educators who teach me very well. Without them I am noth
 <div align="center">
 <a href="https://git.io/typing-svg">
 <img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > 
-
----------
-
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/map.svg">](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
 
 ---------
 
