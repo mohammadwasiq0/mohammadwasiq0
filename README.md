@@ -1,6 +1,8 @@
 ![Wasiq](https://svg-banners.vercel.app/api?type=origin&text1=Mohammad%Wasiq%20&text2=%20Passionate%20%20About%20Data&width=800&height=400)
 
- <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻+%7C+ I+am+Interested+in+Data+Analysis+Data+Science+Statistics+Machine+Learning+Deep+Learninig+Natural+Language+Processing+Large+Language+Model+Generative+AI+Computer+Vision" alt="Short Intro" /> <br> 
+ <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻 alt="Short Intro" /> <br> 
+
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻+%7C+ I+am+Interested+in+Data+Analysis+Data+Science+Statistics+%7C+Machine+Learning+Deep+Learninig+%7C+Natural+Language+Processing+Large+Language+Model+%7C+Generative+AI+Computer+Vision" alt="Short Intro" /> <br> 
  
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+these+techniques+🤖" alt="About Me" />
 
@@ -27,16 +29,6 @@
 </div>
 
 - 💻 Check my Projects and other Repositories [HERE.](https://github.com/mohammadwasiq0?tab=repositories)
-
------------
-
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=FF0000&center=true&lines=Data+Science+Enthusiast'/>
-</div>
-
------------
-
-<img  align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">
 
 -----------
 
@@ -184,6 +176,10 @@ I am thankful to all my educators who teach me very well. Without them I am noth
 
 -----------
 
+<h2 Statistics align="center">
+
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Statistics</b></i></h2>
+
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
 
 
@@ -198,8 +194,8 @@ I am thankful to all my educators who teach me very well. Without them I am noth
 ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/mohammadwasiq0?color=blue&style=for-the-badge&labelColor=cyan)
 
 <a href="https://github.com/mohammadwasiq0">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=January+28,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
-</a> <br> </br>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=November+14,+2022+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
+</a> <br>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammadwasiq0&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -238,7 +234,7 @@ I am thankful to all my educators who teach me very well. Without them I am noth
 </details> <br> </br>
 
 
-# 📈 GitHub Profile Views (since 22 January 2024)
+# 📈 GitHub Profile Views (Since 22 January 2024)
 
 ![Visitor-Count](https://profile-counter.glitch.me/{mohammadwasiq0}/count.svg) <br>
 
@@ -255,6 +251,13 @@ I am thankful to all my educators who teach me very well. Without them I am noth
 <a href="https://git.io/typing-svg">
 <img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > 
 
+---------
+
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/map.svg">](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
+
+---------
+
+<img align="center" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 
 <!-- Back to TOP -->
@@ -266,27 +269,3 @@ I am thankful to all my educators who teach me very well. Without them I am noth
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
- <h2 Statistics align="center">
-
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Statistics</b></i></h2>
- 
- <p align = 'center' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadwasiq0&layout=compact" alt="About-Mohammad-Wasiq" /></p>
-
-![Shubham Shaah's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadwasiq0&theme=vue)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammadwasiq0&show_icons=true&theme=vue)
-
-![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadwasiq0&theme=vue)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mohammadwasiq0&show_icons=true&theme=vue)](https://https://github.com/Shaah-i/github-profile-trophy)
- 
----------
- 
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/map.svg">](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
-
----------
-
-<img align="center" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-
- ``````````
