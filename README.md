@@ -1,12 +1,10 @@
 ![Wasiq](https://svg-banners.vercel.app/api?type=origin&text1=Mohammad%Wasiq%20&text2=%20Passionate%20%20About%20Data&width=800&height=400)
 
-   <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻" alt="Short Intro" /> 
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= I+am+Interested+in; Data+Analysis; Data+Science" alt="Short Intro" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= Statistics; Machine+Learning,Deep+Learninig; Natural+Language+Processing;Large+Language+Model;Generative+AI;Computer+Vision" alt="Short Intro" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= Natural+Language+Processing;Large+Language+Model;Generative+AI;Computer+Vision" alt="Short Intro" /> <br>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Mohammad+Wasiq;Artificial+Intelligence+Enthusiast+👨🏻‍💻" alt="Short Intro" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= I+am+Interested+in; Data+Analysis;Data+Science" alt="Short Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= Statistics; Machine+Learning,Deep+Learninig" alt="Short Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= Natural+Language+Processing;Large+Language+Model;Generative+AI" alt="Short Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines= Computer+Vision" alt="Short Intro" /> <br>
  
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+these+techniques+🤖" alt="About Me" />
 
